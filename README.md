@@ -1,16 +1,32 @@
 ### Hi there 👋
 
-<!--
-**KevValue/KevValue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently working on ... implementing distributed systems as well as designing tailored solutions in the cloud.
 
-Here are some ideas to get you started:
+# Core
+```
+## Language: 
+- Javascript/TypeScript(eventloop) or Golang(goroutines)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## FrontEnd:
+- SSR NextJS / React / UseSWR / RXJS
+
+## BackEnd Drivers:
+- Redis📍 MongoDB🍃 Express / GorillaMux
+```
+
+# Scaling
+```
+## IaC & sdk:
+- CloudFormation / CDK / AWS services SDK (mainly lambda, kinesis, sqs, api-Gateway, cloudfront)
+
+## Systems:
+- Linux + AWS / Docker + Docker Compose
+
+## CI/CD
+- Github Actions + Docker
+```
+
+# Implemented
+```
+- Oauth2, SSO, User Profiles, API's, Microservices
+```
