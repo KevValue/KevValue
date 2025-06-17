@@ -30,3 +30,8 @@ I'm currently working on ... implementing distributed systems as well as designi
 ```
 - Oauth2, SSO, User Profiles, API's, Microservices
 ```
+
+# Open to
+```
+AI/LLM integrations
+```
