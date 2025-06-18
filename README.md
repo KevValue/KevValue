@@ -19,6 +19,9 @@ I'm currently working on ... implementing distributed systems as well as designi
 ## IaC & sdk:
 - CloudFormation / CDK / AWS services SDK (mainly lambda, kinesis, sqs, api-Gateway, cloudfront)
 
+## Reliability Strategies
+- Observability, RTO/RPO plans, Replication, Clustering and Auto Scaling Group
+
 ## Systems:
 - Linux + AWS / Docker + Docker Compose
 
