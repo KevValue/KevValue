@@ -31,6 +31,13 @@ I'm currently working on ... implementing distributed systems as well as designi
 - Oauth2, SSO, User Profiles, API's, Microservices
 ```
 
+# Certified
+```
+- AWS Solutions Architect - SAA-C03 - Certified
+- AWS Solutions Architect - Professional - Open
+
+```
+
 # Open to
 ```
 AI/LLM integrations
