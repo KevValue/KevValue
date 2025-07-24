@@ -2,6 +2,8 @@
 
 I'm currently working on ... implementing distributed systems as well as designing tailored solutions in the cloud.
 
+CV, thoughts, and more.👉 [kevvalue.com](kevvalue)
+
 # Core
 ```
 ## Language: 
@@ -43,5 +45,5 @@ I'm currently working on ... implementing distributed systems as well as designi
 
 # Open to
 ```
-AI/LLM integrations
+AI/ML/LLM integrations
 ```
