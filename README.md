@@ -2,7 +2,7 @@
 
 I'm currently working on ... implementing distributed systems as well as designing tailored solutions in the cloud.
 
-CV, thoughts, and more.👉 [kevvalue.com](kevvalue)
+CV, thoughts, and more.👉 [kevvalue](https://nimble-kitten-fc309c.netlify.app/)
 
 # Core
 ```
