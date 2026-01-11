@@ -2,18 +2,25 @@
 
 I'm currently working on ... implementing distributed systems as well as designing tailored solutions in the cloud.
 
-CV, thoughts, and more.👉 [kevvalue](https://nimble-kitten-fc309c.netlify.app/)
+CV, thoughts, and more.👉 [kevvalue](https://kevvaluecv.netlify.app/)
 
 # Core
 ```
 ## Language: 
 - Javascript/TypeScript(eventloop) or Golang(goroutines)
+- Secondary: java, c++
 
 ## FrontEnd:
-- SSR NextJS / React / UseSWR / RXJS
+- SSR NextJS / React / UseSWR / Tanstack Query / Nuqs / Zustand / Zod
+- UI: Motion, Tailwind, MUI
 
 ## BackEnd Drivers:
-- Redis📍 MongoDB🍃 Express / GorillaMux
+- Redis📍 MongoDB🍃 Express / GorillaMux Cassandra, MySQl
+
+## Telemetry:
+- Grafana
+- Prometheus
+
 ```
 
 # Scaling
