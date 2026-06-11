@@ -1,13 +1,18 @@
 ### Hi there 👋
 
-I'm currently working on ... implementing distributed systems as well as designing tailored solutions in the cloud.
+I'm currently working on ... projects where I focus on problem solving and making design choices guided by first‑principle qualities.
+
+
+My interests include distributed systems and cloud solution design.
+
+I'm actively learning how large‑scale systems are built and maintained, and I hope to work with these technologies at an enterprise setting.
 
 CV, thoughts, and more.👉 [kevvalue](https://kevvaluecv.netlify.app/)
 
 # Core
 ```
 ## Language: 
-- Javascript/TypeScript(eventloop) or Golang(goroutines)
+- Primary: Javascript/TypeScript (frontend) and Go (backend)
 - Secondary: java, c++
 
 ## FrontEnd:
@@ -15,9 +20,16 @@ CV, thoughts, and more.👉 [kevvalue](https://kevvaluecv.netlify.app/)
 - UI: Motion, Tailwind, MUI
 
 ## BackEnd Drivers:
-- Redis📍 MongoDB🍃 Express / GorillaMux Cassandra, MySQl
+- Redis📍 MongoDB🍃 Cassandra, MySQl, PostreSQL
+- Express / Fastify
+- GorillaMux
 
-## Telemetry:
+## Data Ingsetion and Transport Layer:
+- Winston Logs
+- Kafka
+- RabbitMQ
+
+## Telemetry visualization:
 - Grafana
 - Prometheus
 
@@ -25,11 +37,15 @@ CV, thoughts, and more.👉 [kevvalue](https://kevvaluecv.netlify.app/)
 
 # Scaling
 ```
-## IaC & sdk:
+## Tools and services:
 - CloudFormation / CDK / AWS services SDK (mainly lambda, kinesis, sqs, api-Gateway, cloudfront)
 
 ## Reliability Strategies
 - Observability, RTO/RPO plans, Replication, Clustering and Auto Scaling Group
+
+## Code
+- Abstraction, Adapter pattern, interfaces, depdendency inversion
+- Async work, event decoupling, pub and sub pattern
 
 ## Systems:
 - Linux + AWS / Docker + Docker Compose
@@ -38,19 +54,14 @@ CV, thoughts, and more.👉 [kevvalue](https://kevvaluecv.netlify.app/)
 - Github Actions + Docker
 ```
 
-# Implemented
-```
-- Oauth2, SSO, User Profiles, API's, Microservices
-```
-
 # Certified
 ```
 - AWS Solutions Architect - SAA-C03 - Certified
-- AWS Solutions Architect - Professional - Open
+- AWS Solutions Architect - Professional - Open - TBD
 
 ```
 
-# Open to
+# Looking forward
 ```
-AI/ML/LLM integrations
+AI/ML/LLM integrations in projects
 ```
