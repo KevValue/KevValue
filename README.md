@@ -2,6 +2,8 @@
 
 I'm currently working on ... projects where I focus on problem solving and making design choices guided by first‑principle qualities.
 
+I am targeting an internship role, please email or message me with any questions on my working demos.
+
 
 My interests include distributed systems and cloud solution design.
 
